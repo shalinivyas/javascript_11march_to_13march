@@ -35,3 +35,4 @@ console.log(add1(10))
 //arrow function with one paeameter
 
 let add3 = () => console.log("no parameters")
+

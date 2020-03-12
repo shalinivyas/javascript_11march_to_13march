@@ -18,7 +18,7 @@
 // }
 // console.log(x)//let has block level scope
 
-// let desgnation = "Manager"
+ //let desgnation = "Manager"
 // if(desgnation){
 //     console.log('avail company car')
 // }
@@ -28,6 +28,32 @@
 // //or
 // let transport = (!desgnation)?"avail company car":"use public transport"
 // console.log(transport)
+
+//truthy examples
+// if(''){
+//     Console.log("yes for empty string")
+// }
+// else{
+//     console.log("no for empty string")
+// }
+// if(' '){
+//     console.log("yes for empty string")
+// }
+// else{
+//     console.log("no for empty string")
+// }
+// if(null){
+//     Console.log("yes for null")
+// }
+// else{
+//     console.log("no for null")
+// }
+// if(0){
+//     Console.log("yes for zero")
+// }
+// else{
+//     console.log("no for zero")
+// }
 
 //FOR
 
@@ -62,4 +88,15 @@
 // while(count<=10){
 //     console.log(count)
 //     count++
+// }
+
+
+//CONFUSIon
+//  var per = {
+//      id : '01',
+//      name : "shalini"
+// }
+
+//  for(let p in per){
+//      console.log(`${p}`=`${per=id}`)
 // }

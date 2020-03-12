@@ -49,6 +49,7 @@
 // console.log(`the name of x is ${x.fname}`, typeof x.fname)
 
 //CONSTRUCTOR FUNCTION
+//CONSTRUCTOR function always satrts with capital
 
 // function Employee(fname, fId) {
 //     this.fname = fname
@@ -75,7 +76,7 @@
 // console.log(`student ${stud1}`)
 
 //let arr = [1,2,3,4,5]// short hand
-//let arr1 = new Array(1,2,3,4,5)//long hand
+//let arr1 = new Array(1,2,3,4,5)//long hand //constructor function
 
 // equality property
 // let a = "3"
